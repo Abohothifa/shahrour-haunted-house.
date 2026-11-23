@@ -1,0 +1,1 @@
+{"dependencies":{"@capacitor/android":"^8.0.0","@capacitor/core":"^8.0.0"},"description":"مغامرات شحرور في البيت المسكون — لعبة رعب ثلاثية الأبعاد، منظور الشخص الأول، تعمل بدون إنترنت. تطوير حسام.","devDependencies":{"@capacitor/cli":"^8.0.0"},"name":"shahrour-haunted-house","private":true,"version":"1.0.0"}
